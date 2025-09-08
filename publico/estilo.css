@@ -1,0 +1,17 @@
+form{
+    width: 60%;
+    margin: 10%;
+}
+div{
+    margin: 5%;
+}
+#cerrarS{
+    width: 150px;
+    margin-top: 20px;
+}
+section{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

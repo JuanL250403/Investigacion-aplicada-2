@@ -1,0 +1,38 @@
+section{
+    margin: 20px;
+    display: flex;
+    padding: 20px;
+    border: solid;
+    border-radius: 10px;
+    flex-direction: row;
+    justify-content: center;
+}
+header{
+    padding: 10px;
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+}
+#cerrarS{
+    height: fit-content;
+    width: fit-content;
+}
+#cierre{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 0;
+}
+#cierre > *{
+    margin: 5px;
+}
+#info{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    left: 60%;
+}
